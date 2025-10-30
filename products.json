@@ -1,0 +1,217 @@
+[
+    {
+      "id": "classic-round",
+      "name": "Classic Round",
+      "description": "Armação redonda clássica em acetato premium, perfeita para um visual intelectual e atemporal. Leve e confortável para o dia a dia.",
+      "image": "img/classic.jpg",
+      "gallery": [
+          "img/classic.jpg",
+          "https://placehold.co/600x600/f0f4f8/1e293b?text=Classic+Round+(Vista+Lateral)"
+      ],
+      "prices": [
+        { "type": "Preço", "price": "R$ 299,00", "description": "Armação Premium" }
+      ],
+      "colors": [
+        { "name": "Preto", "color": "#000000" },
+        { "name": "Tartaruga", "color": "#5a3825" },
+        { "name": "Cristal", "color": "#f0f0f0" }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Acetato Premium" },
+        { "label": "Estilo", "value": "Redondo" },
+        { "label": "Gênero", "value": "Unissex" }
+      ]
+    },
+    {
+      "id": "modern-square",
+      "name": "Modern Square",
+      "description": "Design quadrado moderno com lentes polarizadas, ideal para dirigir e para o dia a dia. Oferece 100% de proteção UV.",
+      "image": "img/square.jpg",
+      "gallery": [
+          "img/square.jpg",
+          "https://placehold.co/600x600/f0f4f8/1e293b?text=Square+(Vista+Lateral)"
+      ],
+      "prices": [
+        { "type": "Preço", "price": "R$ 349,00", "description": "Lentes Polarizadas" }
+      ],
+      "colors": [
+        { "name": "Grafite Fosco", "color": "#444444" }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Metal e Acetato" },
+        { "label": "Lentes", "value": "Polarizadas UV400" },
+        { "label": "Estilo", "value": "Quadrado" }
+      ]
+    },
+    {
+      "id": "aviator-style",
+      "name": "Aviator Style",
+      "description": "Estilo aviador atemporal em metal dourado, um clássico que nunca sai de moda. Leve e com plaquetas ajustáveis.",
+      "image": "img/aviador.jpeg",
+      "gallery": [
+          "img/aviador.jpeg",
+          "https://placehold.co/600x600/f0f4f8/1e293b?text=Aviador+(Vista+Lateral)"
+      ],
+      "prices": [
+        { "type": "Preço", "price": "R$ 399,00", "description": "Armação em Metal" }
+      ],
+      "colors": [
+        { "name": "Dourado (Lente Verde)", "color": "#FFD700" },
+        { "name": "Prata (Lente Preta)", "color": "#C0C0C0" },
+        { "name": "Preto (Lente Preta)", "color": "#000000" }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Metal" },
+        { "label": "Estilo", "value": "Aviador" },
+        { "label": "Gênero", "value": "Unissex" }
+      ]
+    },
+    {
+      "id": "cat-eye-chic",
+      "name": "Cat Eye Chic",
+      "description": "Armação cat eye (gatinho) sofisticada e elegante, para um visual marcante e feminino. Detalhes em metal nas hastes.",
+      "image": "img/cateye.jpg",
+      "gallery": [
+          "img/cateye.jpg",
+          "https://placehold.co/600x600/f0f4f8/1e293b?text=Cat+Eye+(Vista+Lateral)"
+      ],
+      "prices": [
+        { "type": "Preço", "price": "R$ 329,00", "description": "Design Italiano" }
+      ],
+      "colors": [
+        { "name": "Vinho", "color": "#800000" },
+        { "name": "Preto", "color": "#000000" }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Acetato" },
+        { "label": "Estilo", "value": "Gatinho (Cat Eye)" },
+        { "label": "Gênero", "value": "Feminino" }
+      ]
+    },
+    {
+      "id": "sport-active",
+      "name": "Sport Active",
+      "description": "Óculos esportivo leve com proteção UV400 e design aerodinâmico. Ideal para corrida, ciclismo e atividades ao ar livre.",
+      "image": "https://placehold.co/600x600/e3f2fd/1e293b?text=🕶️",
+      "gallery": [
+        "https://placehold.co/600x600/e3f2fd/1e293b?text=🕶️"
+      ],
+      "prices": [
+        { "type": "Preço", "price": "R$ 279,00", "description": "Proteção UV400" }
+      ],
+      "colors": [
+        { "name": "Preto com Lente Vermelha", "color": "#000000" }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Injetado (Leve)" },
+        { "label": "Estilo", "value": "Esportivo" },
+        { "label": "Uso", "value": "Performance" }
+      ]
+    },
+    {
+      "id": "vintage-retro",
+      "name": "Vintage Retro",
+      "description": "Estilo vintage com toque contemporâneo e ponte dupla em metal. Uma armação de grau cheia de personalidade.",
+      "image": "https://placehold.co/600x600/e3f2fd/1e293b?text=👓",
+      "gallery": [
+        "https://placehold.co/600x600/e3f2fd/1e293b?text=👓"
+      ],
+      "prices": [
+        { "type": "Preço", "price": "R$ 319,00", "description": "Design Exclusivo" }
+      ],
+      "colors": [
+        { "name": "Marrom Translúcido", "color": "#8B4513" }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Acetato e Metal" },
+        { "label": "Estilo", "value": "Vintage / Retrô" },
+        { "label": "Gênero", "value": "Unissex" }
+      ]
+    },
+    {
+      "id": "executivo-titanio",
+      "name": "Executivo Titânio",
+      "description": "Armação de grau 'flutuante' (sem aro) em titânio puro. Extremamente leve, flexível e resistente, ideal para uso contínuo.",
+      "image": "https://placehold.co/600x600/e3f2fd/1e293b?text=👓",
+      "gallery": [
+        "https://placehold.co/600x600/e3f2fd/1e293b?text=👓"
+      ],
+      "prices": [
+        { "type": "Preço", "price": "R$ 799,00", "description": "Armação de Titânio Puro" }
+      ],
+      "colors": [
+        { "name": "Titânio Escovado", "color": "#888888" },
+        { "name": "Preto Fosco", "color": "#222222" }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Titânio" },
+        { "label": "Estilo", "value": "Sem Aro (Flutuante)" },
+        { "label": "Peso", "value": "Ultra Leve (4g)" }
+      ]
+    },
+    {
+      "id": "kids-flex",
+      "name": "Kids Flex",
+      "description": "Armação infantil em silicone flexível e inquebrável. Design anatômico, perfeito para crianças ativas. Inclui elástico de segurança.",
+      "image": "https://placehold.co/600x600/e3f2fd/1e293b?text=🤓",
+      "gallery": [
+        "https://placehold.co/600x600/e3f2fd/1e293b?text=🤓"
+      ],
+      "prices": [
+        { "type": "Preço", "price": "R$ 249,00", "description": "Material Inquebrável" }
+      ],
+      "colors": [
+        { "name": "Azul Royal", "color": "#4169E1" },
+        { "name": "Rosa Pink", "color": "#FF1493" },
+        { "name": "Verde Limão", "color": "#32CD32" }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Silicone Flexível" },
+        { "label": "Público", "value": "Infantil (3-7 anos)" },
+        { "label": "Extras", "value": "Haste com elástico removível" }
+      ]
+    },
+    {
+      "id": "blue-block-screen",
+      "name": "Blue Block Screen",
+      "description": "Óculos de descanso com filtro de luz azul. Ideal para quem passa horas no computador ou celular. Reduz a fadiga ocular e melhora o sono.",
+      "image": "https://placehold.co/600x600/e3f2fd/1e293b?text=🖥️",
+      "gallery": [
+        "https://placehold.co/600x600/e3f2fd/1e293b?text=🖥️",
+        "https://placehold.co/600x600/f0f4f8/1e293b?text=Lente+Blue+Block"
+      ],
+      "prices": [
+        { "type": "Preço", "price": "R$ 199,00", "description": "Lentes com Filtro de Luz Azul" }
+      ],
+      "colors": [
+        { "name": "Transparente", "color": "#F0F8FF" },
+        { "name": "Preto Clássico", "color": "#000000" }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Policarbonato" },
+        { "label": "Lentes", "value": "Filtro de Luz Azul (sem grau)" },
+        { "label": "Uso", "value": "Digital / Descanso" }
+      ]
+    },
+    {
+      "id": "lentes-diarias",
+      "name": "Lentes de Contato Diárias",
+      "description": "Caixa com 30 lentes de contato de descarte diário. Praticidade e saúde ocular, sem necessidade de limpeza ou estojo.",
+      "image": "https://placehold.co/600x600/e3f2fd/1e293b?text=👁️",
+      "gallery": [
+        "https://placehold.co/600x600/e3f2fd/1e293b?text=👁️"
+      ],
+      "prices": [
+        { "type": "Caixa c/ 30", "price": "R$ 129,00", "description": "Descarte Diário (Miopia)" },
+        { "type": "Caixa c/ 30", "price": "R$ 149,00", "description": "Descarte Diário (Astigmatismo)" }
+      ],
+      "colors": [
+        { "name": "Incolor", "color": "#FFFFFF" }
+      ],
+      "specs": [
+        { "label": "Tipo", "value": "Descarte Diário" },
+        { "label": "Marca", "value": "Acuvue / CooperVision / etc." },
+        { "label": "Conteúdo", "value": "30 unidades (15 pares)" }
+      ]
+    }
+  ]
