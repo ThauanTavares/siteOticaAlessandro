@@ -461,7 +461,7 @@ loadProducts();
  */
 function comprarPeloWhatsApp(produto) {
   // NÚMERO ATUALIZADO PARA O DA ÓTICA ELEGANTE
-  const numeroVendedor = "5511999999999"; 
+  const numeroVendedor = "554187882832"; 
 
   let mensagem = `Olá! Tenho interesse no produto *${produto.nome}*`;
 
